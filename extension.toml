@@ -2,22 +2,6 @@ id = "mayukai-zed"
 name = "Mayukai Zed"
 version = "1.0.0"
 schema_version = 1
-description = "Mayukai Zed is a custom theme for the Zed code editor, designed to provide a visually appealing and comfortable coding environment. It features a dark color scheme with vibrant accents, making it easier to distinguish between different elements of the code. The theme is optimized for readability and aims to reduce eye strain during long coding sessions. With its sleek design and carefully chosen color palette, Mayukai Zed enhances the overall coding experience and allows developers to focus on their work without distractions."
-repository = "https://github.com/irsyadulibad/mayukai-zed"
+description = "A port of the Mayukai Theme for Zed. Dark theme with vibrant accents, available in Sunset (warm golden tones) and Midnight (cool purple tones) variants."
 authors = ["Ahmad Irsyadul Ibad"]
-themes = ["themes/Mayukai-sunset-zed-theme.json", "Mayukai-midnight-zed-theme.json"]
-icon_themes = []
-languages = []
-capabilities = []
-
-[lib]
-
-[grammars]
-
-[language_servers]
-
-[context_servers]
-
-[agent_servers]
-
-[slash_commands]
+repository = "https://github.com/irsyadulibad/mayukai-zed"
