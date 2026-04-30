@@ -1,5 +1,5 @@
-id = "mayukai-zed"
-name = "Mayukai Zed"
+id = "mayukai-theme"
+name = "Mayukai Theme"
 version = "1.0.0"
 schema_version = 1
 description = "A port of the Mayukai Theme for Zed. Dark theme with vibrant accents, available in Sunset (warm golden tones) and Midnight (cool purple tones) variants."
