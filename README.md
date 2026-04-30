@@ -11,8 +11,12 @@ A port of the [Mayukai Theme](https://github.com/GulajavaMinistudio/Mayukai-Them
 ### Mayukai Sunset
 A warm dark theme with golden and orange accents.
 
+![Mayukai Sunset](screenshoots/mayukai-sunset.png)
+
 ### Mayukai Midnight
 A cooler dark theme with purple/violet accents, giving code a more distinct, moody feel.
+
+![Mayukai Midnight](screenshoots/mayukai-midnight.png)
 
 ---
 
